@@ -9,3 +9,7 @@ deployed on VERCEL
 
 Backend repo : https://github.com/varuogm/Online-objective-system-Server
 deployed on HEROKU
+
+The target audience are the Schools, colleges and all other institutions who are willing to reduce their exam taking procedure
+
+
